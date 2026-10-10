@@ -42,7 +42,7 @@ The pages in this repository are the **first building blocks** of that website. 
 
 | File | Description |
 |:-----|:------------|
-| 🏪 `store1.html` | Main store webpage |
+| 🏪 `index.html` | Main store webpage |
 | 🎨 `store1.css` | Website styling |
 | ⚙️ `store1.js` | Website functionality |
 | ✨ `animation.html` | Animation webpage, includes the XML and SVG code of my logo designed in Canva |
@@ -67,7 +67,7 @@ git clone <your-repository-url>
 cd <project-folder>
 ```
 
-3. Open **`store1.html`** in your web browser.
+3. Open **`index.html`** in your web browser.
 4. Explore the website. 🍉
 
 No installation or build tools needed. Just a browser!
